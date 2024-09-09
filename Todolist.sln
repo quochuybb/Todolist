@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todolist", "Todolist.csproj", "{3BF88D07-16F3-44D0-98F8-DEE1BC13D03D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF88D07-16F3-44D0-98F8-DEE1BC13D03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF88D07-16F3-44D0-98F8-DEE1BC13D03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF88D07-16F3-44D0-98F8-DEE1BC13D03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF88D07-16F3-44D0-98F8-DEE1BC13D03D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
